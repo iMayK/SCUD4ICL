@@ -18,4 +18,6 @@ Our approach shows significant improvements across benchmarks, with clear benefi
 
 ---
 
-Code will be released shortly!
+Prompts to decompose instances, generations are available in prompts/
+
+Code(updates) will be released shortly!
